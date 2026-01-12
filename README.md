@@ -1,3 +1,1 @@
-# Tufts AI Safety
-
-This is the homepage for the Tufts AI Safety club...
+My website
